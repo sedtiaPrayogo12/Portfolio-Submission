@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+
+body{
+    background: #000;
+    font-size: 16px;
+}
+.neon{
+    font-family: 'Bad Script', sans-serif,
+    cursive;
+    text-align: center;
+    font-size: 8em;
+    color: aliceblue;
+    letter-spacing: 0.15em;
+}
+.pink{
+    text-shadow: 
+        0 0 5px #ff2bac,
+        0 0 10px #ff2bac,
+        0 0 20px #ff2bac,
+        0 0 40px #ff2bac,
+        0 0 80px #ff2bac,
+        0 0 90px #ff2bac,
+        0 0 100px #ff2bac,
+        0 0 150px #ff2bac;
+}
+.blue{
+    text-shadow: 
+        0 0 5px #7bacff,
+        0 0 10px #7bacff,
+        0 0 20px #7bacff,
+        0 0 40px #7bacff,
+        0 0 80px #7bacff,
+        0 0 90px #7bacff,
+        0 0 100px #7bacff,
+        0 0 150px #7bacff;
+}
+.green{
+    text-shadow: 
+        0 0 5px #7bffce,
+        0 0 10px #7bffce,
+        0 0 20px #7bffce,
+        0 0 40px #7bffce,
+        0 0 80px #7bffce,
+        0 0 90px #7bffce,
+        0 0 100px #7bffce,
+        0 0 150px #7bffce;
+}
